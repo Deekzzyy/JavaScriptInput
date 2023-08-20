@@ -1,5 +1,5 @@
 # JavaScriptInput 
-[![NPM](https://github.com/Deekzzyy/JavaScriptInput/blob/main/LICENSE) 
+![NPM](https://github.com/Deekzzyy/JavaScriptInput/blob/main/LICENSE) 
 
 
 # About the project (Sobre o projeto)
